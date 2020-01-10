@@ -1,10 +1,9 @@
 # Learning Angular
  A repo that I will come back to for refreshing my angular knowledge.
 
-Refer to the Doc for references.
 Understanding the projects can be difficult...
 
-Refer doc to look for basic tips, tricks and issues that I confronted and resolved, might come in handy for beginners.
+So, refer doc to look for basic tips, tricks and issues that I confronted and resolved, might come in handy for beginners.
 
 Contents:
 <ol>
