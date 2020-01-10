@@ -3,7 +3,8 @@
 
 Refer to the Doc for references.
 Understanding the projects can be difficult...
-The Doc contains conclusions, tips and steps for basic stuffs.
+
+Refer doc to look for basic tips, tricks and issues that I confronted and resolved, might come in handy for beginners.
 
 Contents:
 <ol>
